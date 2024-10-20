@@ -73,10 +73,6 @@ To get started with Authify, follow these steps:
 
 Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Inspired by various authentication projects and frameworks.
